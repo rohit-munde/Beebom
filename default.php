@@ -59,7 +59,7 @@
                     <div class="style-59">
                         <div class="style-60">
                                 <!-- <img class="style-62" src="https://cdn2.lnk.bi/otherpics/-1528104_20230216398.png" alt="" /> -->
-                                <img class="style-62" src="F:/YouTube Data/Spirit of Sadhguru/12.Website/Beebom/Assests/Poster2.png" alt="" />
+                                <img class="style-62" src="./Assests/Poster2.png" alt="" />
                         </div>
                         <div class="style-63">
                                 <img class="style-65" src="https://cdn2.lnk.bi/otherpics/-1528104_20230216746.png" alt="" />
