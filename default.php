@@ -65,12 +65,12 @@
                                 <img class="style-65" src="https://cdn2.lnk.bi/otherpics/-1528104_20230216746.png" alt="" />
                         </div>
                         <div class="style-66">
-                            <div class="style-67"> <a href="/go?d=https%3A%2F%2Fsquareoffnow.com%2Fproduct%2Fgks%3Freferral_promo%3DBEEBOM10&amp;hash=7e9d14f00b9850aa455e0dcce9ed5104&amp;id=4662735&amp;ext=-1528104&amp;timezone=Asia%2FKolkata&amp;type=1" rel="external nofollow ugc" title="Chessboard " class="style-68">
+                            <div class="style-67"> <a href="https://amzn.to/3MnW4qf" target=”_blank” rel="external nofollow ugc" title="Chessboard " class="style-68">
                                     <div class="style-69">
 
                                         <span class="style-70">
                                             <div class="style-71">
-                                                <img data-src="https://cdn2.lnk.bi/uploads/4662735_20230506203936296-1024.jpg?lu=2023-05-06+12%3A39%3A40" alt="Chessboard " referrerpolicy="no-referrer" src="https://cdn2.lnk.bi/uploads/4662735_20230506203936296-500.jpg?lu=2023-05-06+12%3A39%3A40" class="style-72" />
+                                                <img data-src="https://cdn2.lnk.bi/uploads/4662735_20230506203936296-1024.jpg?lu=2023-05-06+12%3A39%3A40" alt="Chessboard " referrerpolicy="no-referrer" src="./Assests/InnerEngineering.avif" class="style-72" />
                                             </div>
                                         </span> <span class="style-73">Chessboard </span>
                                     </div>
